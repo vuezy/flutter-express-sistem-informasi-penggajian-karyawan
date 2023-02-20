@@ -1,0 +1,162 @@
+[
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 26,
+    "filled_at": "2022-11-30",
+    "id_karyawan": 1,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 26,
+    "filled_at": "2022-11-30",
+    "id_karyawan": 2,
+    "created_by": 1,
+    "updated_by": 2
+  },
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 24,
+    "filled_at": "2022-11-29",
+    "id_karyawan": 3,
+    "created_by": 1,
+    "updated_by": 3
+  },
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 26,
+    "filled_at": "2022-11-30",
+    "id_karyawan": 4,
+    "created_by": 1,
+    "updated_by": 4
+  },
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 20,
+    "filled_at": "2022-11-26",
+    "id_karyawan": 5,
+    "created_by": 1,
+    "updated_by": 5
+  },
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 26,
+    "filled_at": "2022-11-30",
+    "id_karyawan": 6,
+    "created_by": 1,
+    "updated_by": 6
+  },
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 26,
+    "filled_at": "2022-11-30",
+    "id_karyawan": 7,
+    "created_by": 1,
+    "updated_by": 7
+  },
+  {
+    "tgl_mulai": "2022-11-01",
+    "tgl_berakhir": "2022-12-01",
+    "jlh_hari_kerja": 26,
+    "hadir": 26,
+    "filled_at": "2022-11-30",
+    "id_karyawan": 8,
+    "created_by": 1,
+    "updated_by": 8
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 25,
+    "filled_at": "2023-12-29",
+    "id_karyawan": 1,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 25,
+    "filled_at": "2023-12-29",
+    "id_karyawan": 2,
+    "created_by": 1,
+    "updated_by": 2
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 23,
+    "filled_at": "2023-12-27",
+    "id_karyawan": 3,
+    "created_by": 1,
+    "updated_by": 3
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 24,
+    "filled_at": "2023-12-29",
+    "id_karyawan": 4,
+    "created_by": 1,
+    "updated_by": 4
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 25,
+    "filled_at": "2023-12-29",
+    "id_karyawan": 5,
+    "created_by": 1,
+    "updated_by": 5
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 24,
+    "filled_at": "2023-12-28",
+    "id_karyawan": 6,
+    "created_by": 1,
+    "updated_by": 6
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 25,
+    "filled_at": "2023-12-29",
+    "id_karyawan": 7,
+    "created_by": 1,
+    "updated_by": 7
+  },
+  {
+    "tgl_mulai": "2022-12-01",
+    "tgl_berakhir": "2023-01-01",
+    "jlh_hari_kerja": 25,
+    "hadir": 23,
+    "filled_at": "2023-12-27",
+    "id_karyawan": 8,
+    "created_by": 1,
+    "updated_by": 8
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "nama": "Direksi",
+    "gaji_pokok": 25000000.00,
+    "tunjangan_jabatan": 3000000.00,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "nama": "Direktur Keuangan",
+    "gaji_pokok": 15000000.00,
+    "tunjangan_jabatan": 2500000.00,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "nama": "Direktur Personalia",
+    "gaji_pokok": 15000000.00,
+    "tunjangan_jabatan": 2000000.00,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "nama": "Manager Pemasaran",
+    "gaji_pokok": 7500000.00,
+    "tunjangan_jabatan": 1000000.00,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "nama": "Manager Pabrik",
+    "gaji_pokok": 7500000.00,
+    "tunjangan_jabatan": 1000000.00,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "nama": "Administrasi",
+    "gaji_pokok": 4000000.00,
+    "tunjangan_jabatan": 560000.00,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "nama": "Pergudangan",
+    "gaji_pokok": 3400000.00,
+    "tunjangan_jabatan": 450000.00,
+    "created_by": 1,
+    "updated_by": 1
+  },
+  {
+    "nama": "Divisi Pemasaran",
+    "gaji_pokok": 3600000.00,
+    "tunjangan_jabatan": 450000.00,
+    "created_by": 1,
+    "updated_by": 1
+  }
+]

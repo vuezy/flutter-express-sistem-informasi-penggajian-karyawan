@@ -1,0 +1,53 @@
+[
+  {
+    "username": "ronnie",
+    "email": "ronnie@gmail.com",
+    "password": "ronnieronnie",
+    "id_karyawan": "1",
+    "role": "ADMIN"
+  },
+  {
+    "username": "fanny",
+    "email": "fanny@gmail.com",
+    "password": "fannyyyy",
+    "id_karyawan": "2",
+    "role": "ADMIN"
+  },
+  {
+    "username": "alex04",
+    "email": "alex@gmail.com",
+    "password": "alexalex",
+    "id_karyawan": "3"
+  },
+  {
+    "username": "gerigeri",
+    "email": "geri@gmail.com",
+    "password": "geri1234",
+    "id_karyawan": "4"
+  },
+  {
+    "username": "paolo",
+    "email": "paolo@gmail.com",
+    "password": "password",
+    "id_karyawan": "5"
+  },
+  {
+    "username": "iggy11",
+    "email": "iggy@gmail.com",
+    "password": "secret123",
+    "id_karyawan": "6",
+    "role": "ADMIN"
+  },
+  {
+    "username": "shane88",
+    "email": "shane@gmail.com",
+    "password": "1234567890",
+    "id_karyawan": "7"
+  },
+  {
+    "username": "emily",
+    "email": "emily@gmail.com",
+    "password": "emilyylime",
+    "id_karyawan": "8"
+  }
+]

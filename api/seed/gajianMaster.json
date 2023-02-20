@@ -1,0 +1,178 @@
+[
+  {
+    "ptkp": 5625000.00,
+    "pkp": 21455000.00,
+    "pph": 5363750.00,
+    "gaji_diterima": 21716250.00,
+    "tgl_terima": "2022-12-01",
+    "id_karyawan": 1,
+    "id_jabatan": 1,
+    "created_by": 2,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 5250000.00,
+    "pkp": 11750000.00,
+    "pph": 1762500.00,
+    "gaji_diterima": 15237500.00,
+    "tgl_terima": "2022-12-01",
+    "id_karyawan": 2,
+    "id_jabatan": 2,
+    "created_by": 2,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 4500000.00,
+    "pkp": 11965000.00,
+    "pph": 1794750.00,
+    "gaji_diterima": 14670250.00,
+    "tgl_terima": "2022-12-02",
+    "id_karyawan": 3,
+    "id_jabatan": 3,
+    "created_by": 2,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 6000000.00,
+    "pkp": 2400000.00,
+    "pph": 120000.00,
+    "gaji_diterima": 8280000.00,
+    "tgl_terima": "2022-12-01",
+    "id_karyawan": 4,
+    "id_jabatan": 4,
+    "created_by": 2,
+    "updated_by": 6
+  },
+  {
+    "ptkp": 6000000.00,
+    "pkp": 2245000.00,
+    "pph": 112250.00,
+    "gaji_diterima": 8132900.00,
+    "tgl_terima": "2022-12-03",
+    "id_karyawan": 5,
+    "id_jabatan": 5,
+    "created_by": 6,
+    "updated_by": 6
+  },
+  {
+    "ptkp": 5250000.00,
+    "pkp": 0.00,
+    "pph": 0.00,
+    "gaji_diterima": 4814600.00,
+    "tgl_terima": "2022-12-01",
+    "id_karyawan": 6,
+    "id_jabatan": 6,
+    "created_by": 6,
+    "updated_by": 6
+  },
+  {
+    "ptkp": 4500000.00,
+    "pkp": 0.00,
+    "pph": 0.00,
+    "gaji_diterima": 4168500.00,
+    "tgl_terima": "2022-12-01",
+    "id_karyawan": 7,
+    "id_jabatan": 7,
+    "created_by": 2,
+    "updated_by": 6
+  },
+  {
+    "ptkp": 4500000.00,
+    "pkp": 0.00,
+    "pph": 0.00,
+    "gaji_diterima": 4350500.00,
+    "tgl_terima": "2022-12-02",
+    "id_karyawan": 8,
+    "id_jabatan": 8,
+    "created_by": 2,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 5625000.00,
+    "pkp": 21455000.00,
+    "pph": 5363750.00,
+    "gaji_diterima": 21716250.00,
+    "tgl_terima": "2023-01-01",
+    "id_karyawan": 1,
+    "id_jabatan": 1,
+    "created_by": 2,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 5250000.00,
+    "pkp": 11750000.00,
+    "pph": 1762500.00,
+    "gaji_diterima": 15237500.00,
+    "tgl_terima": "2023-01-01",
+    "id_karyawan": 2,
+    "id_jabatan": 2,
+    "created_by": 2,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 4500000.00,
+    "pkp": 11964000.00,
+    "pph": 1794600.00,
+    "gaji_diterima": 14669400.00,
+    "tgl_terima": "2023-01-02",
+    "id_karyawan": 3,
+    "id_jabatan": 3,
+    "created_by": 6,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 6000000.00,
+    "pkp": 2373000.00,
+    "pph": 118650.00,
+    "gaji_diterima": 8254750.00,
+    "tgl_terima": "2023-01-02",
+    "id_karyawan": 4,
+    "id_jabatan": 4,
+    "created_by": 6,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 6000000.00,
+    "pkp": 2400000.00,
+    "pph": 120000.00,
+    "gaji_diterima": 8280000.00,
+    "tgl_terima": "2023-01-01",
+    "id_karyawan": 5,
+    "id_jabatan": 5,
+    "created_by": 6,
+    "updated_by": 6
+  },
+  {
+    "ptkp": 5250000.00,
+    "pkp": 0.00,
+    "pph": 0.00,
+    "gaji_diterima": 4788000.00,
+    "tgl_terima": "2023-01-01",
+    "id_karyawan": 6,
+    "id_jabatan": 6,
+    "created_by": 6,
+    "updated_by": 6
+  },
+  {
+    "ptkp": 4500000.00,
+    "pkp": 0.00,
+    "pph": 0.00,
+    "gaji_diterima": 4168500.00,
+    "tgl_terima": "2023-01-01",
+    "id_karyawan": 7,
+    "id_jabatan": 7,
+    "created_by": 2,
+    "updated_by": 2
+  },
+  {
+    "ptkp": 4500000.00,
+    "pkp": 0.00,
+    "pph": 0.00,
+    "gaji_diterima": 4297300.00,
+    "tgl_terima": "2023-01-01",
+    "id_karyawan": 8,
+    "id_jabatan": 8,
+    "created_by": 6,
+    "updated_by": 6
+  }
+]

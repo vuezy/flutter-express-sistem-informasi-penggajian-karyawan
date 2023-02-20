@@ -1,0 +1,25 @@
+{
+  "name": "api-si-penggajian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "create-db": "node ./db",
+    "seeder": "node ./seed",
+    "start": "node ./app"
+  },
+  "keywords": [],
+  "author": "213303030014 - Shane Christian Kwok",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bluebird": "^3.7.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
